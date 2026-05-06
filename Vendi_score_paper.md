@@ -49,4 +49,3 @@ Please add availability information for all relevant research data.
 
 Some of the data that support the findings of this article are openly available.  
 Rad Image Net is not publicly available because it is owned by a third party and the terms of use prevent public distribution.  
-The remaining data are available from the authors upon reasonable request.
